@@ -1,5 +1,5 @@
 # Hi, I'm Taegyun Kim
-AI Engineer focused on RAG systems, Hybrid Search, and LLM-powered agents.
+AI Engineer focused on RAG systems, Hybrid Search, and AI Agents.
 
 ## 🛠 Tech Stack
 Python | LangChain | FastAPI | Milvus | Neo4j | PostgreSQL | Docker
